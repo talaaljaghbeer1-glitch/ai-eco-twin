@@ -1,0 +1,4 @@
+region,emission_factor_kgCO2_per_kWh,pue,water_factor_L_per_kWh
+Europe,0.2,1.2,1.0
+USA,0.4,1.3,1.5
+Asia,0.6,1.4,2.0

@@ -1,0 +1,4 @@
+gpu_name,tDP_watts
+A100,400
+V100,300
+T4,70
