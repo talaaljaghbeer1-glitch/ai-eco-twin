@@ -1,0 +1,2 @@
+timestamp,gpu,region,runtime_hours,utilization,n_gpus,gpu_energy_kwh,total_energy_kwh,co2_kg,water_l,eco_score
+2025-09-29T12:49:14.446111,A100,Europe,10.0,0.7,1,2.8,3.36,0.672,3.36,91
